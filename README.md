@@ -17,4 +17,4 @@ The web application utilizes **[Django Web Framework](https://docs.djangoproject
 
 ------
 
-Author: [Kaiser Mian Cabatingan](https://github.com/kaisermian)
+Author: [Juriel Botoy](https://github.com/juryel)
